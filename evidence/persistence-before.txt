@@ -1,0 +1,11 @@
+=== BEFORE ===
+NAME      READY   STATUS    RESTARTS   AGE   IP            NODE       NOMINATED NODE   READINESS GATES
+mongo-1   1/1     Running   0          14m   10.244.0.11   minikube   <none>           <none>
+NAME           STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+data-mongo-0   Bound    pvc-478c4370-b123-4b0a-ad07-71043aa20117   1Gi        RWO            standard       <unset>                 19m
+data-mongo-1   Bound    pvc-0f292fb2-598b-404e-9d30-f580cc9f4cea   1Gi        RWO            standard       <unset>                 14m
+data-mongo-2   Bound    pvc-71d1e940-254e-45b7-886e-62352151efb8   1Gi        RWO            standard       <unset>                 14m
+PVC data-mongo-1 UID:
+0f292fb2-598b-404e-9d30-f580cc9f4cea
+Documents in calculations:
+4
