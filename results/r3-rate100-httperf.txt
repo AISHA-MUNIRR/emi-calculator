@@ -1,0 +1,37 @@
+docker : httperf: warning: open file limit > FD_SETSIZE; limiting max. # of open files to FD_SETSIZE
+At C:\Users\hp\emi-calculator\run15.ps1:71 char:13
++     $text = docker run --rm --network minikube --add-host "emi.local: ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (httperf: warnin...s to FD_SETSIZE:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+httperf --hog --timeout=5 --client=0/1 --server=emi.local --port=32757 --uri=/ --rate=100 --send-buffer=4096 --recv-buffer=16384 --add-header='Content-Type: application/json\n' --wsesslog=6000,0.000,/work/sessions.txt
+Maximum connect burst length: 4
+
+Total: connections 6000 requests 6000 replies 2892 test-duration 64.972 s
+
+Connection rate: 92.3 conn/s (10.8 ms/conn, <=502 concurrent connections)
+Connection time [ms]: min 0.6 avg 933.3 max 4958.2 median 181.5 stddev 1108.2
+Connection time [ms]: connect 0.1
+Connection length [replies/conn]: 1.000
+
+Request rate: 92.3 req/s (10.8 ms/req)
+Request size [B]: 164.0
+
+Reply rate [replies/s]: min 0.0 avg 44.9 max 100.4 stddev 39.7 (12 samples)
+Reply time [ms]: response 933.2 transfer 0.0
+Reply size [B]: header 183.0 content 159.0 footer 0.0 (total 342.0)
+Reply status: 1xx=0 2xx=1438 3xx=0 4xx=0 5xx=1454
+
+CPU time [s]: user 2.32 system 61.36 (user 3.6% system 94.4% total 98.0%)
+Net I/O: 29.8 KB/s (0.2*10^6 bps)
+
+Errors: total 3108 client-timo 3108 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0
+
+Session rate [sess/s]: min 0.00 avg 44.51 max 100.40 stddev 39.74 (2892/6000)
+Session: avg 1.00 connections/session
+Session lifetime [s]: 0.9
+Session failtime [s]: 5.0
+Session length histogram: 3108 2892
+
