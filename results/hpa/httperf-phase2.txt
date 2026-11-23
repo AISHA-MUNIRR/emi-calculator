@@ -6,32 +6,32 @@ At C:\Users\hp\emi-calculator\run-hpa.ps1:75 char:11
     + FullyQualifiedErrorId : NativeCommandError
  
 httperf --hog --timeout=5 --client=0/1 --server=emi.local --port=32757 --uri=/ --rate=100 --send-buffer=4096 --recv-buffer=16384 --add-header='Content-Type: application/json\n' --wsesslog=30000,0.000,/work/sessions.txt
-Maximum connect burst length: 4
+Maximum connect burst length: 21
 
-Total: connections 30000 requests 30000 replies 11396 test-duration 304.991 s
+Total: connections 30000 requests 30000 replies 15328 test-duration 300.021 s
 
-Connection rate: 98.4 conn/s (10.2 ms/conn, <=503 concurrent connections)
-Connection time [ms]: min 0.4 avg 993.6 max 4998.3 median 608.5 stddev 1201.6
-Connection time [ms]: connect 0.1
+Connection rate: 100.0 conn/s (10.0 ms/conn, <=526 concurrent connections)
+Connection time [ms]: min 0.4 avg 357.7 max 4971.7 median 59.5 stddev 835.2
+Connection time [ms]: connect 0.2
 Connection length [replies/conn]: 1.000
 
-Request rate: 98.4 req/s (10.2 ms/req)
+Request rate: 100.0 req/s (10.0 ms/req)
 Request size [B]: 164.0
 
-Reply rate [replies/s]: min 0.0 avg 38.0 max 105.2 stddev 32.4 (60 samples)
-Reply time [ms]: response 993.5 transfer 0.0
-Reply size [B]: header 182.0 content 155.0 footer 0.0 (total 337.0)
-Reply status: 1xx=0 2xx=5732 3xx=0 4xx=0 5xx=5664
+Reply rate [replies/s]: min 0.0 avg 50.3 max 161.0 stddev 49.9 (59 samples)
+Reply time [ms]: response 357.4 transfer 0.0
+Reply size [B]: header 151.0 content 179.0 footer 0.0 (total 330.0)
+Reply status: 1xx=0 2xx=305 3xx=0 4xx=0 5xx=15023
 
-CPU time [s]: user 7.68 system 292.01 (user 2.5% system 95.7% total 98.3%)
-Net I/O: 28.2 KB/s (0.2*10^6 bps)
+CPU time [s]: user 14.89 system 274.02 (user 5.0% system 91.3% total 96.3%)
+Net I/O: 32.6 KB/s (0.3*10^6 bps)
 
-Errors: total 18604 client-timo 18604 socket-timo 0 connrefused 0 connreset 0
+Errors: total 14672 client-timo 14672 socket-timo 0 connrefused 0 connreset 0
 Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0
 
-Session rate [sess/s]: min 0.00 avg 37.37 max 105.21 stddev 32.38 (11396/30000)
+Session rate [sess/s]: min 0.00 avg 51.09 max 161.01 stddev 49.88 (15328/30000)
 Session: avg 1.00 connections/session
-Session lifetime [s]: 1.0
+Session lifetime [s]: 0.4
 Session failtime [s]: 5.0
-Session length histogram: 18604 11396
+Session length histogram: 14672 15328
 

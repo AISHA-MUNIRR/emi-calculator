@@ -1,80 +1,80 @@
-/api/emi method=POST contents='{"principal":3552323,"rate":17,"months":65}'
+/api/emi method=POST contents='{"principal":147196,"rate":21,"months":91}'
 
-/api/emi method=POST contents='{"principal":598616,"rate":29,"months":90}'
+/api/emi method=POST contents='{"principal":3958692,"rate":28,"months":12}'
 
-/api/emi method=POST contents='{"principal":4448716,"rate":15,"months":99}'
+/api/emi method=POST contents='{"principal":2657969,"rate":8,"months":40}'
 
-/api/emi method=POST contents='{"principal":3864346,"rate":15,"months":7}'
+/api/emi method=POST contents='{"principal":3590941,"rate":24,"months":59}'
 
-/api/emi method=POST contents='{"principal":4716474,"rate":13,"months":44}'
+/api/emi method=POST contents='{"principal":2075003,"rate":18,"months":74}'
 
-/api/emi method=POST contents='{"principal":2952863,"rate":20,"months":40}'
+/api/emi method=POST contents='{"principal":4779059,"rate":26,"months":88}'
 
-/api/emi method=POST contents='{"principal":2844198,"rate":18,"months":36}'
+/api/emi method=POST contents='{"principal":1658192,"rate":25,"months":120}'
 
-/api/emi method=POST contents='{"principal":662213,"rate":23,"months":74}'
+/api/emi method=POST contents='{"principal":3189825,"rate":8,"months":103}'
 
-/api/emi method=POST contents='{"principal":4676697,"rate":30,"months":45}'
+/api/emi method=POST contents='{"principal":3522210,"rate":26,"months":21}'
 
-/api/emi method=POST contents='{"principal":3167429,"rate":19,"months":27}'
+/api/emi method=POST contents='{"principal":1896888,"rate":5,"months":56}'
 
-/api/emi method=POST contents='{"principal":2208838,"rate":7,"months":25}'
+/api/emi method=POST contents='{"principal":4160695,"rate":19,"months":38}'
 
-/api/emi method=POST contents='{"principal":4916865,"rate":12,"months":72}'
+/api/emi method=POST contents='{"principal":396996,"rate":24,"months":59}'
 
-/api/emi method=POST contents='{"principal":1683934,"rate":8,"months":31}'
+/api/emi method=POST contents='{"principal":3679266,"rate":7,"months":91}'
 
-/api/emi method=POST contents='{"principal":1675022,"rate":12,"months":62}'
+/api/emi method=POST contents='{"principal":2370603,"rate":20,"months":86}'
 
-/api/emi method=POST contents='{"principal":2167130,"rate":13,"months":77}'
+/api/emi method=POST contents='{"principal":1809783,"rate":14,"months":63}'
 
-/api/emi method=POST contents='{"principal":3780712,"rate":20,"months":100}'
+/api/emi method=POST contents='{"principal":621547,"rate":20,"months":118}'
 
-/api/emi method=POST contents='{"principal":3460114,"rate":14,"months":31}'
+/api/emi method=POST contents='{"principal":3437677,"rate":21,"months":6}'
 
-/api/emi method=POST contents='{"principal":804058,"rate":6,"months":104}'
+/api/emi method=POST contents='{"principal":873341,"rate":28,"months":59}'
 
-/api/emi method=POST contents='{"principal":4906897,"rate":20,"months":94}'
+/api/emi method=POST contents='{"principal":4865545,"rate":15,"months":64}'
 
-/api/emi method=POST contents='{"principal":4605580,"rate":9,"months":119}'
+/api/emi method=POST contents='{"principal":4520412,"rate":7,"months":14}'
 
-/api/emi method=POST contents='{"principal":1937237,"rate":11,"months":100}'
+/api/emi method=POST contents='{"principal":4633747,"rate":8,"months":17}'
 
-/api/emi method=POST contents='{"principal":3110029,"rate":13,"months":43}'
+/api/emi method=POST contents='{"principal":4299246,"rate":28,"months":26}'
 
-/api/emi method=POST contents='{"principal":4235058,"rate":29,"months":9}'
+/api/emi method=POST contents='{"principal":914355,"rate":13,"months":97}'
 
-/api/emi method=POST contents='{"principal":3795824,"rate":11,"months":59}'
+/api/emi method=POST contents='{"principal":634627,"rate":10,"months":89}'
 
-/api/emi method=POST contents='{"principal":423746,"rate":11,"months":34}'
+/api/emi method=POST contents='{"principal":4858057,"rate":27,"months":29}'
 
-/api/emi method=POST contents='{"principal":3860238,"rate":23,"months":53}'
+/api/emi method=POST contents='{"principal":1486238,"rate":12,"months":91}'
 
-/api/emi method=POST contents='{"principal":4878993,"rate":9,"months":49}'
+/api/emi method=POST contents='{"principal":1719785,"rate":20,"months":31}'
 
-/api/emi method=POST contents='{"principal":2605221,"rate":29,"months":27}'
+/api/emi method=POST contents='{"principal":788997,"rate":22,"months":50}'
 
-/api/emi method=POST contents='{"principal":4834244,"rate":12,"months":10}'
+/api/emi method=POST contents='{"principal":2181453,"rate":22,"months":82}'
 
-/api/emi method=POST contents='{"principal":1562416,"rate":5,"months":89}'
+/api/emi method=POST contents='{"principal":4114968,"rate":7,"months":45}'
 
-/api/emi method=POST contents='{"principal":4038612,"rate":15,"months":115}'
+/api/emi method=POST contents='{"principal":4816577,"rate":26,"months":6}'
 
-/api/emi method=POST contents='{"principal":1194273,"rate":29,"months":9}'
+/api/emi method=POST contents='{"principal":3372656,"rate":19,"months":56}'
 
-/api/emi method=POST contents='{"principal":3333042,"rate":26,"months":119}'
+/api/emi method=POST contents='{"principal":2976724,"rate":18,"months":62}'
 
-/api/emi method=POST contents='{"principal":1501562,"rate":28,"months":79}'
+/api/emi method=POST contents='{"principal":1628350,"rate":29,"months":36}'
 
-/api/emi method=POST contents='{"principal":3994163,"rate":29,"months":20}'
+/api/emi method=POST contents='{"principal":917877,"rate":19,"months":53}'
 
-/api/emi method=POST contents='{"principal":3812646,"rate":6,"months":99}'
+/api/emi method=POST contents='{"principal":1416014,"rate":10,"months":11}'
 
-/api/emi method=POST contents='{"principal":3027016,"rate":10,"months":107}'
+/api/emi method=POST contents='{"principal":1313646,"rate":22,"months":19}'
 
-/api/emi method=POST contents='{"principal":1785911,"rate":29,"months":6}'
+/api/emi method=POST contents='{"principal":3822768,"rate":19,"months":64}'
 
-/api/emi method=POST contents='{"principal":3032816,"rate":27,"months":42}'
+/api/emi method=POST contents='{"principal":4229307,"rate":25,"months":59}'
 
-/api/emi method=POST contents='{"principal":3194514,"rate":22,"months":11}'
+/api/emi method=POST contents='{"principal":3568062,"rate":16,"months":32}'
 

@@ -1,147 +1,177 @@
-[2026-11-22 14:30:24]
-[2026-11-22 14:30:40]
+[2026-11-23 08:38:52]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 10%/50%   1         5         1          3m9s
-[2026-11-22 14:30:55]
-[2026-11-22 14:31:11]
-[2026-11-22 14:31:26]
+emi-web   Deployment/emi-web   cpu: 16%/50%   1         5         1          18h
+[2026-11-23 08:39:07]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 10%/50%   1         5         1          3m56s
-[2026-11-22 14:31:42]
+emi-web   Deployment/emi-web   cpu: 16%/50%   1         5         1          18h
+[2026-11-23 08:39:23]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 34%/50%   1         5         1          4m12s
-[2026-11-22 14:31:58]
+emi-web   Deployment/emi-web   cpu: 16%/50%   1         5         1          18h
+[2026-11-23 08:39:39]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 34%/50%   1         5         1          4m27s
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:39:55]
+[2026-11-23 08:40:11]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 34%/50%   1         5         1          4m43s
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:40:27]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 34%/50%   1         5         1          4m59s
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:40:44]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 85%/50%   1         5         1          5m14s
+emi-web   Deployment/emi-web   cpu: 96%/50%   1         5         1          18h
+[2026-11-23 08:41:02]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 85%/50%   1         5         2          5m30s
-[2026-11-22 14:33:16]
-[2026-11-22 14:33:32]
-[2026-11-22 14:33:47]
+emi-web   Deployment/emi-web   cpu: 96%/50%   1         5         2          18h
+[2026-11-23 08:41:18]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 96%/50%   1         5         2          18h
+[2026-11-23 08:41:34]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 96%/50%   1         5         2          18h
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 132%/50%   1         5         2          6m17s
+emi-web   Deployment/emi-web   cpu: 112%/50%   1         5         2          18h
+[2026-11-23 08:42:07]
+[2026-11-23 08:42:23]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 132%/50%   1         5         3          6m33s
-[2026-11-22 14:34:19]
+emi-web   Deployment/emi-web   cpu: 112%/50%   1         5         3          18h
+[2026-11-23 08:42:40]
+[2026-11-23 08:42:56]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 132%/50%   1         5         3          6m50s
-NAME      REFERENCE            TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: <unknown>/50%   1         5         3          7m5s
-[2026-11-22 14:34:51]
-NAME      REFERENCE            TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: <unknown>/50%   1         5         3          7m21s
-[2026-11-22 14:35:08]
-NAME      REFERENCE            TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: <unknown>/50%   1         5         3          7m38s
-[2026-11-22 14:35:24]
-NAME      REFERENCE            TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: <unknown>/50%   1         5         3          7m54s
-[2026-11-22 14:35:40]
+emi-web   Deployment/emi-web   cpu: 141%/50%   1         5         3          18h
+[2026-11-23 08:43:17]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 217%/50%   1         5         3          8m10s
-[2026-11-22 14:35:56]
+emi-web   Deployment/emi-web   cpu: 141%/50%   1         5         3          18h
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 217%/50%   1         5         5          8m26s
-[2026-11-22 14:36:12]
+emi-web   Deployment/emi-web   cpu: 141%/50%   1         5         3          18h
+[2026-11-23 08:43:50]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 217%/50%   1         5         5          8m42s
-[2026-11-22 14:36:28]
+emi-web   Deployment/emi-web   cpu: 134%/50%   1         5         3          18h
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 217%/50%   1         5         5          8m58s
-[2026-11-22 14:36:44]
+emi-web   Deployment/emi-web   cpu: 134%/50%   1         5         3          18h
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 209%/50%   1         5         5          9m14s
+emi-web   Deployment/emi-web   cpu: 134%/50%   1         5         3          18h
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 209%/50%   1         5         5          9m31s
-[2026-11-22 14:37:17]
+emi-web   Deployment/emi-web   cpu: 134%/50%   1         5         3          18h
+[2026-11-23 08:44:55]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 209%/50%   1         5         5          9m47s
-[2026-11-22 14:37:33]
+emi-web   Deployment/emi-web   cpu: 189%/50%   1         5         3          18h
+[2026-11-23 08:45:13]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 209%/50%   1         5         5          10m
+emi-web   Deployment/emi-web   cpu: 189%/50%   1         5         4          18h
+[2026-11-23 08:45:30]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 172%/50%   1         5         5          10m
-[2026-11-22 14:38:05]
-[2026-11-22 14:38:21]
-[2026-11-22 14:38:36]
+emi-web   Deployment/emi-web   cpu: 189%/50%   1         5         4          18h
+[2026-11-23 08:45:48]
+[2026-11-23 08:46:03]
+[2026-11-23 08:46:19]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 172%/50%   1         5         5          11m
-[2026-11-22 14:38:52]
+emi-web   Deployment/emi-web   cpu: 164%/50%   1         5         5          18h
+[2026-11-23 08:46:35]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 145%/50%   1         5         5          11m
+emi-web   Deployment/emi-web   cpu: 154%/50%   1         5         5          18h
+[2026-11-23 08:46:52]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 145%/50%   1         5         5          11m
+emi-web   Deployment/emi-web   cpu: 151%/50%   1         5         5          18h
+[2026-11-23 08:47:08]
+[2026-11-23 08:47:24]
+[2026-11-23 08:47:39]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 145%/50%   1         5         5          11m
-[2026-11-22 14:39:39]
+emi-web   Deployment/emi-web   cpu: 137%/50%   1         5         5          18h
+[2026-11-23 08:47:55]
 NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 145%/50%   1         5         5          12m
-[2026-11-22 14:39:55]
+emi-web   Deployment/emi-web   cpu: 137%/50%   1         5         5          18h
+[2026-11-23 08:48:11]
+NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 137%/50%   1         5         5          18h
+[2026-11-23 08:48:27]
+NAME      REFERENCE            TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 137%/50%   1         5         5          18h
+[2026-11-23 08:48:43]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 32%/50%   1         5         5          12m
-[2026-11-22 14:40:11]
+emi-web   Deployment/emi-web   cpu: 63%/50%   1         5         5          18h
+[2026-11-23 08:49:01]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 32%/50%   1         5         5          12m
-[2026-11-22 14:40:26]
-[2026-11-22 14:40:42]
+emi-web   Deployment/emi-web   cpu: 63%/50%   1         5         5          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          13m
+emi-web   Deployment/emi-web   cpu: 63%/50%   1         5         5          18h
+[2026-11-23 08:49:33]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          13m
-[2026-11-22 14:41:13]
+emi-web   Deployment/emi-web   cpu: 41%/50%   1         5         5          18h
+[2026-11-23 08:49:50]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          13m
-[2026-11-22 14:41:29]
+emi-web   Deployment/emi-web   cpu: 41%/50%   1         5         5          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          13m
-[2026-11-22 14:41:45]
+emi-web   Deployment/emi-web   cpu: 41%/50%   1         5         5          18h
+[2026-11-23 08:50:22]
+[2026-11-23 08:50:37]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 23%/50%   1         5         5          14m
-[2026-11-22 14:42:01]
+emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          18h
+[2026-11-23 08:50:53]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 23%/50%   1         5         5          14m
-[2026-11-22 14:42:17]
+emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 23%/50%   1         5         5          14m
-[2026-11-22 14:42:33]
+emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          18h
+[2026-11-23 08:51:25]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 23%/50%   1         5         5          15m
+emi-web   Deployment/emi-web   cpu: 29%/50%   1         5         5          18h
+[2026-11-23 08:51:41]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 18%/50%   1         5         5          15m
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         4          18h
+[2026-11-23 08:51:57]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 18%/50%   1         5         5          15m
-[2026-11-22 14:43:21]
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         4          18h
+[2026-11-23 08:52:13]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 18%/50%   1         5         5          15m
-[2026-11-22 14:43:37]
+emi-web   Deployment/emi-web   cpu: 11%/50%   1         5         3          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 18%/50%   1         5         5          16m
-[2026-11-22 14:43:54]
+emi-web   Deployment/emi-web   cpu: 11%/50%   1         5         3          18h
+[2026-11-23 08:52:45]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 13%/50%   1         5         5          16m
-[2026-11-22 14:44:10]
+emi-web   Deployment/emi-web   cpu: 14%/50%   1         5         2          18h
+[2026-11-23 08:53:01]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 13%/50%   1         5         5          16m
+emi-web   Deployment/emi-web   cpu: 14%/50%   1         5         2          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 13%/50%   1         5         5          16m
-[2026-11-22 14:44:42]
+emi-web   Deployment/emi-web   cpu: 14%/50%   1         5         1          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 10%/50%   1         5         4          17m
-[2026-11-22 14:44:58]
+emi-web   Deployment/emi-web   cpu: 14%/50%   1         5         1          18h
+[2026-11-23 08:53:48]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 10%/50%   1         5         4          17m
-[2026-11-22 14:45:15]
+emi-web   Deployment/emi-web   cpu: 13%/50%   1         5         1          18h
+[2026-11-23 08:54:04]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 10%/50%   1         5         4          17m
-[2026-11-22 14:45:31]
+emi-web   Deployment/emi-web   cpu: 13%/50%   1         5         1          18h
+[2026-11-23 08:54:20]
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 10%/50%   1         5         4          18m
+emi-web   Deployment/emi-web   cpu: 13%/50%   1         5         1          18h
 NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
-emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         3          18m
-[2026-11-22 14:46:03]
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:54:52]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:55:08]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:55:24]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:55:40]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:55:56]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 12%/50%   1         5         1          18h
+[2026-11-23 08:56:44]
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 20%/50%   1         5         1          18h
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 20%/50%   1         5         1          18h
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 20%/50%   1         5         1          18h
+NAME      REFERENCE            TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
+emi-web   Deployment/emi-web   cpu: 20%/50%   1         5         1          18h

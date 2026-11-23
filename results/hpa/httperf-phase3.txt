@@ -8,30 +8,30 @@ At C:\Users\hp\emi-calculator\run-hpa.ps1:75 char:11
 httperf --hog --timeout=5 --client=0/1 --server=emi.local --port=32757 --uri=/ --rate=10 --send-buffer=4096 --recv-buffer=16384 --add-header='Content-Type: application/json\n' --wsesslog=1800,0.000,/work/sessions.txt
 Maximum connect burst length: 1
 
-Total: connections 1800 requests 1800 replies 1800 test-duration 179.920 s
+Total: connections 1800 requests 1800 replies 1759 test-duration 180.711 s
 
-Connection rate: 10.0 conn/s (100.0 ms/conn, <=4 concurrent connections)
-Connection time [ms]: min 0.9 avg 22.7 max 354.1 median 16.5 stddev 27.6
+Connection rate: 10.0 conn/s (100.4 ms/conn, <=51 concurrent connections)
+Connection time [ms]: min 4.5 avg 440.8 max 4990.0 median 27.5 stddev 905.8
 Connection time [ms]: connect 0.0
 Connection length [replies/conn]: 1.000
 
-Request rate: 10.0 req/s (100.0 ms/req)
+Request rate: 10.0 req/s (100.4 ms/req)
 Request size [B]: 164.0
 
-Reply rate [replies/s]: min 9.8 avg 10.0 max 10.2 stddev 0.0 (35 samples)
-Reply time [ms]: response 22.7 transfer 0.0
-Reply size [B]: header 211.0 content 130.0 footer 0.0 (total 341.0)
-Reply status: 1xx=0 2xx=1746 3xx=0 4xx=0 5xx=54
+Reply rate [replies/s]: min 4.8 avg 9.6 max 15.0 stddev 1.8 (36 samples)
+Reply time [ms]: response 440.8 transfer 0.0
+Reply size [B]: header 212.0 content 128.0 footer 0.0 (total 340.0)
+Reply status: 1xx=0 2xx=1756 3xx=0 4xx=0 5xx=3
 
-CPU time [s]: user 40.39 system 139.41 (user 22.4% system 77.5% total 99.9%)
-Net I/O: 4.9 KB/s (0.0*10^6 bps)
+CPU time [s]: user 34.49 system 144.74 (user 19.1% system 80.1% total 99.2%)
+Net I/O: 4.8 KB/s (0.0*10^6 bps)
 
-Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: total 41 client-timo 41 socket-timo 0 connrefused 0 connreset 0
 Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0
 
-Session rate [sess/s]: min 9.80 avg 10.00 max 10.20 stddev 0.05 (1800/1800)
+Session rate [sess/s]: min 4.80 avg 9.73 max 15.00 stddev 1.76 (1759/1800)
 Session: avg 1.00 connections/session
-Session lifetime [s]: 0.0
-Session failtime [s]: 0.0
-Session length histogram: 0 1800
+Session lifetime [s]: 0.4
+Session failtime [s]: 5.0
+Session length histogram: 41 1759
 
